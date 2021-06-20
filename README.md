@@ -5,7 +5,7 @@
 # Access to our bot @RiZoeLvcBoT
 
 <p align="center">
-  <img src="https://telegra.ph/file/086aef084368ff3bd0800.jpg">
+  <img src="https://telegra.ph/file/e02dd02b2b28ef5fc19a7.jpg">
 </p>
 <details>
 
@@ -30,7 +30,7 @@ $ python(3) -m RiZoeLXMusic
 
 <summary> Deploy To Heroku </summary>
 
-[![Deploy]https://telegra.ph/file/362f5ae2cf698841c92de.jpg](https://heroku.com/deploy?template=https://github.com/MrRizoel/RiZoeLXMusic)
+[![Deploy]https://telegra.ph/file/489cd993fc9c30548238e.jpg](https://heroku.com/deploy?template=https://github.com/MrRizoel/RiZoeLXMusic)
 
 Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string session
 
