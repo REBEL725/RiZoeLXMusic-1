@@ -27,7 +27,7 @@ Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string se
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/RiZoeL/RiZoeLXMusic
+$ git clone https://github.com/MrRiZoeL/RiZoeLXMusic
 $ cd RiZoeLXMusic
 # Upgrade sources
 # Install All Requirements 
