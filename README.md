@@ -16,7 +16,7 @@
 
 <summary> Deploy To Heroku </summary>
 
-[![Deploy]https://telegra.ph/file/362f5ae2cf698841c92de.jpg](https://heroku.com/deploy?template=https://github.com/MrRizoel/RiZoeLXMusic)
+[![Deploy](https://telegra.ph/file/362f5ae2cf698841c92de.jpg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/RiZoeLXMusic)
 
 Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string session
 
