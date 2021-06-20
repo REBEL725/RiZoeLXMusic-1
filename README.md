@@ -6,8 +6,10 @@
 
 <p align="center">
   <img src="https://telegra.ph/file/e02dd02b2b28ef5fc19a7.jpg">
+</p>
 
-### ⚔ Self-hosting (For Devs) 
+<deta
+⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/RiZoeL/RiZoeLXMusic
