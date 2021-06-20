@@ -7,21 +7,7 @@
 <p align="center">
   <img src="https://telegra.ph/file/e02dd02b2b28ef5fc19a7.jpg">
 </p>
-<details>
 
-### ⚔ Self-hosting (For Devs) 
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/RiZoeL/RiZoeLXMusic
-$ cd RiZoeLXMusic
-# Upgrade sources
-# Install All Requirements 
-$ pip(3) install -r requirements.txt
-# Rename example.env to local.env and fill
-$ npm i -g npm
-# Start Bot 
-$ python(3) -m RiZoeLXMusic
-</p>
 </details>
 
 #### Based on Callsmusic-1
@@ -36,3 +22,17 @@ Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string se
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
+<details>
+
+### ⚔ Self-hosting (For Devs) 
+```sh
+# Install Git First (apt-instll git)
+$ git clone https://github.com/RiZoeL/RiZoeLXMusic
+$ cd RiZoeLXMusic
+# Upgrade sources
+# Install All Requirements 
+$ pip(3) install -r requirements.txt
+# Rename example.env to local.env and fill
+$ npm i -g npm
+# Start Bot 
+$ python(3) -m RiZoeLXMusic
