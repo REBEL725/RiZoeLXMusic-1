@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://telegra.ph/file/e02dd02b2b28ef5fc19a7.jpg">
-</p>
-<details>
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
