@@ -5,7 +5,7 @@
 # Access to our bot @RiZoeLvcBoT
 
 <p align="center">
-  <img src="https://telegra.ph/file/086aef084368ff3bd0800.jpg">
+  <img src="https://telegra.ph/file/e02dd02b2b28ef5fc19a7.jpg">
 </p>
 <details>
 
