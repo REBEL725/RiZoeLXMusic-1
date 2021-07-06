@@ -1,6 +1,5 @@
 # RiZoeLXMusic (Telegram bot project)
 # Copyright (C) 2021  RiZoeL
-# Copyright (C) 2021  TheHamkerCat (Python_ARQ)
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
 # published by the Free Software Foundation, either version 3 of the
@@ -620,7 +619,7 @@ async def play(_, message: Message):
             toxxt = "**Select the song you want to play**\n\n"
             j = 0
             useer=user_name
-            emojilist = ["1️⃣","2️⃣","3️⃣","4️⃣","5️⃣",]
+            emojilist = ["⓵","⓶","⓷","⓸","⓹",]
 
             while j < 5:
                 toxxt += f"{emojilist[j]} [Title - {results[j]['title']}](https://youtube.com{results[j]['url_suffix']})\n"
@@ -632,13 +631,13 @@ async def play(_, message: Message):
             koyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("𝟙❢", callback_data=f'plll 0|{query}|{user_id}'),
-                        InlineKeyboardButton("𝟚❢", callback_data=f'plll 1|{query}|{user_id}'),
-                        InlineKeyboardButton("𝟛️❢", callback_data=f'plll 2|{query}|{user_id}'),
+                        InlineKeyboardButton("⓵", callback_data=f'plll 0|{query}|{user_id}'),
+                        InlineKeyboardButton("⓶", callback_data=f'plll 1|{query}|{user_id}'),
+                        InlineKeyboardButton("⓷", callback_data=f'plll 2|{query}|{user_id}'),
                     ],
                     [
-                        InlineKeyboardButton("𝟜❢", callback_data=f'plll 3|{query}|{user_id}'),
-                        InlineKeyboardButton("𝟝❢", callback_data=f'plll 4|{query}|{user_id}'),
+                        InlineKeyboardButton("⓸", callback_data=f'plll 3|{query}|{user_id}'),
+                        InlineKeyboardButton("⓹", callback_data=f'plll 4|{query}|{user_id}'),
                     ],
                     [InlineKeyboardButton(text="❌", callback_data="cls")],
                 ]
