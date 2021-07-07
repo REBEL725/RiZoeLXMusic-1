@@ -1,7 +1,7 @@
 <h1 align="centre">RiZoeLXMusic V2.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [RiZoeL(https://t.me/TheRiZoeL)
+#### POWERED BY [RiZoeL](https://t.me/TheRiZoeL)
 ### Available on telegram as [@RiZoeLVcBot](https://t.me/RiZoeLVcBot)
 
 <p align="center">
