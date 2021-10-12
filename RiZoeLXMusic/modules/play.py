@@ -1141,7 +1141,7 @@ async def jiosaavn(client: Client, message_: Message):
             ],
             [
                 InlineKeyboardButton(
-                    text="🥀ℝɪℤᴏᴇ𝕃", url=f"https://t.me/TheRiZoeL"
+                    text="🥀𝕄𝕀𝕊𝕊 ℚ𝕌𝔼𝔼ℕ", url=f"https://t.me/MISS_QUEENS_BOT"
                 )
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
