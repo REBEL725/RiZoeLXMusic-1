@@ -17,7 +17,7 @@
 import asyncio
 from os import path
 
-from RiZoeLXMusichelpers.errors import FFmpegReturnCodeError
+from RiZoeLXMusic.helpers.errors import FFmpegReturnCodeError
 
 
 async def convert(file_path: str) -> str:
